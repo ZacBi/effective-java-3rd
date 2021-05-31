@@ -38,4 +38,13 @@
   * [31. 使用限定通配符来增加API的灵活性](chapter-4.-fan-xing/31.-shi-yong-xian-ding-tong-pei-fu-lai-zeng-jia-api-de-ling-huo-xing.md)
   * [32. 合理地结合泛型和可变参数](chapter-4.-fan-xing/32.-he-li-di-jie-he-fan-xing-he-ke-bian-can-shu.md)
   * [33. 优先考虑类型安全的异构容器](chapter-4.-fan-xing/33.-you-xian-kao-lv-lei-xing-an-quan-de-yi-gou-rong-qi.md)
+* [Chapter 5. 枚举与注解](chapter-5.-mei-ju-yu-zhu-jie/README.md)
+  * [34. 使用枚举类型替代整型常量](chapter-5.-mei-ju-yu-zhu-jie/34.-shi-yong-mei-ju-lei-xing-ti-dai-zheng-xing-chang-liang.md)
+  * [35. 使用实例属性替代序数](chapter-5.-mei-ju-yu-zhu-jie/35.-shi-yong-shi-li-shu-xing-ti-dai-xu-shu.md)
+  * [36. 使用EnumSet替代位属性](chapter-5.-mei-ju-yu-zhu-jie/36.-shi-yong-enumset-ti-dai-wei-shu-xing.md)
+  * [37. 使用EnumMap替代序数索引](chapter-5.-mei-ju-yu-zhu-jie/37.-shi-yong-enummap-ti-dai-xu-shu-suo-yin.md)
+  * [38. 使用接口模拟可扩展的枚举](chapter-5.-mei-ju-yu-zhu-jie/38.-shi-yong-jie-kou-mo-ni-ke-kuo-zhan-de-mei-ju.md)
+  * [39. 注解优于命名模式](chapter-5.-mei-ju-yu-zhu-jie/39.-zhu-jie-you-yu-ming-ming-mo-shi.md)
+  * [40. 始终使用Override注解](chapter-5.-mei-ju-yu-zhu-jie/40.-shi-zhong-shi-yong-override-zhu-jie.md)
+  * [41. 使用标记接口定义类型](chapter-5.-mei-ju-yu-zhu-jie/41.-shi-yong-biao-ji-jie-kou-ding-yi-lei-xing.md)
 
