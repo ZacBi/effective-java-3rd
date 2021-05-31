@@ -14,3 +14,11 @@
 * [08. 避免使用Finalizer和Cleaner机制](chapter-1.-chuang-zao-he-xiao-hui-dui-xiang/08.-bi-mian-shi-yong-finalizer-he-cleaner-ji-zhi.md)
 * [09. 使用try-with-resources语句替代try-finally语句](chapter-1.-chuang-zao-he-xiao-hui-dui-xiang/09.-shi-yong-trywithresources-yu-ju-ti-dai-tryfinally-yu-ju.md)
 
+## Chapter 2. 所有对象通用方法
+
+* [10. 重写equals方法时遵守通用约定](chapter-2.-suo-you-dui-xiang-tong-yong-fang-fa/10.-zhong-xie-equals-fang-fa-shi-zun-shou-tong-yong-yue-ding.md)
+* [11. 重写equals方法时同时也要重写hashcode方法](chapter-2.-suo-you-dui-xiang-tong-yong-fang-fa/11.-zhong-xie-equals-fang-fa-shi-tong-shi-ye-yao-zhong-xie-hashcode-fang-fa.md)
+* [12. 始终重写 toString 方法](chapter-2.-suo-you-dui-xiang-tong-yong-fang-fa/12.-shi-zhong-zhong-xie-tostring-fang-fa.md)
+* [13. 谨慎地重写 clone 方法](chapter-2.-suo-you-dui-xiang-tong-yong-fang-fa/13.-jin-shen-di-zhong-xie-clone-fang-fa.md)
+* [14. 考虑实现Comparable接口](chapter-2.-suo-you-dui-xiang-tong-yong-fang-fa/14.-kao-lv-shi-xian-comparable-jie-kou.md)
+
